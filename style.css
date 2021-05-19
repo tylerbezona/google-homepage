@@ -1,0 +1,22 @@
+#google-img {
+   text-align: center;
+   margin: 280px;
+}
+.nav-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    word-spacing: 20px;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.search-section {
+    display: flex;
+    justify-content: center;
+}
+
+.button-section {
+    text-align: center;
+    margin: 5px;
+    word-spacing: 10px;
+}
